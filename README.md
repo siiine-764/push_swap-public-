@@ -1,2 +1,2 @@
-# push_swap-public
+# push_swap:
 
