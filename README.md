@@ -11,4 +11,6 @@ sa (swap a): Swap the first 2 elements at the top of stack a. Do nothing if ther
 
 <img width="356" alt="Screen Shot 2023-02-19 at 6 30 40 PM" src="https://user-images.githubusercontent.com/80540449/219964591-9ab6df86-f1e0-4698-b4e7-05506c2a64a7.png">
 
+https://miro.com/welcomeonboard/UDJnZnA4MkFINHNuR2JhUHdnR2FyS3dLaDRLVnZuUERONEowWTdPQnJLR3I1ZFo4WWhyTmZWNUhzMjBudGNUdXwzNDU4NzY0NTM5MDg3OTIwNDMwfDI=?share_link_id=805953916695
+
 
