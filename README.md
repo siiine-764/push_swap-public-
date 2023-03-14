@@ -1,4 +1,4 @@
-# push_swap:
+# 海路 push_swap:
 
 <img width="100%" src="https://velog.velcdn.com/images/haero_kim/post/f5361ffd-8a95-4c1c-9378-1fccd0a0557a/quick-sort-001.gif" />
 
