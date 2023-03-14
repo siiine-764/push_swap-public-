@@ -11,4 +11,4 @@ This video expain how push swap working : <br><br>
 
 <a href="https://www.youtube.com/watch?v=2aMrmWOgLvU">how to work by tester</a>
 
-<a href="https://miro.com/welcomeonboard/UDJnZnA4MkFINHNuR2JhUHdnR2FyS3dLaDRLVnZuUERONEowWTdPQnJLR3I1ZFo4WWhyTmZWNUhzMjBudGNUdXwzNDU4NzY0NTM5MDg3OTIwNDMwfDI=?share_link_id=805953916695">explain what do you need to know</a> 
+<img width="100%" src="https://velog.velcdn.com/images/haero_kim/post/f5361ffd-8a95-4c1c-9378-1fccd0a0557a/quick-sort-001.gif" />
